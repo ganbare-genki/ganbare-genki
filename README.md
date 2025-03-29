@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Kaan 
 
-## 🎯 Enterprise IT Solutions | Solution Architect | Team Leader
+## 🎯 Enterprise IT Solutions | Solution Architect | IT Infrastructure & Database Specialist | System Optimization Expert
 
 BT altyapı sistemleri, veritabanı yönetimi ve uygulama performans optimizasyonu konularında geniş bilgi birikimi ve deneyime sahibim.  
 Kurumsal hedeflere ulaşmak için stratejik çözümler geliştiriyor ve uyguluyorum.
