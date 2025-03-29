@@ -51,6 +51,6 @@ Kurumsal hedeflere ulaşmak için stratejik çözümler geliştiriyor ve uyguluy
 ---
 
 ## 📫 İletişim
-
+💼 [LinkedIn](https://www.linkedin.com/in/kaan-kilicarslan) 
 📧 kaan.kilicarslan@hotmail.com  
 🌐 [github.com/ganbare-genki](https://github.com/ganbare-genki)
