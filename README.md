@@ -53,4 +53,4 @@ Kurumsal hedeflere ulaşmak için stratejik çözümler geliştiriyor ve uyguluy
 ## 📫 İletişim
 
 📧 kaan.kilicarslan@hotmail.com  
-🌐 [github.com/donpaca](https://github.com/ganbare-genki)
+🌐 [github.com/ganbare-genki](https://github.com/ganbare-genki)
