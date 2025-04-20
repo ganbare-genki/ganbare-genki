@@ -13,7 +13,7 @@ Kurumsal hedeflere ulaşmak için stratejik çözümler geliştiriyor ve uyguluy
   Java 8 ve Java 21 üzerinde uygulama performans optimizasyonu, Tomcat ve JBoss sunucuları üzerinde tuning ve kaynak yönetimi  
 
 - **Veritabanı Yönetimi ve Optimizasyonu:**  
-  SQL Server (2014 & 2016), Oracle ve MySQL üzerinde gelişmiş yönetim, veri modelleme, performans tuning, T-SQL uzmanlığı  
+  SQL Server, Oracle ve MySQL üzerinde gelişmiş yönetim, veri modelleme, performans tuning, SQL uzmanlığı  
 
 - **Linux Sistem Yönetimi:**  
   Linux tabanlı sistemlerde kurulum, konfigürasyon ve yönetim  
