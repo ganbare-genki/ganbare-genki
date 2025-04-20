@@ -30,10 +30,6 @@ Kurumsal hedeflere ulaşmak için stratejik çözümler geliştiriyor ve uyguluy
 - **DevOps Temelleri:**  
   CI/CD kavramları, otomasyon ve yazılım teslim süreçlerinde temel DevOps prensipleri  
 
-- **İş Zekâsı ve Görselleştirme:**  
-  QlikSense ile veri görselleştirme, dashboard tasarımı ve analiz  
-
-
 ---
 
 ## 🧰 Sık Kullandığım Teknolojiler
